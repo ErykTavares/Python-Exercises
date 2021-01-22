@@ -11,5 +11,10 @@ with open(arq) as file_object:
             print(line.strip())
             
            
+           #blablablaoihuipjiniujikoppokopkopk
+
+
+
+           
 
             
